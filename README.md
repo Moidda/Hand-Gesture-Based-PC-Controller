@@ -8,7 +8,3 @@ https://www.youtube.com/watch?v=sOLE_DEBOi0
 # Workflow
 ![image](https://user-images.githubusercontent.com/57999057/127991642-f3dccc72-94a2-4bcd-89d4-d0e4b932436e.png)
 ![image](https://user-images.githubusercontent.com/57999057/127992714-3e16d7b9-c99e-4e35-813d-34ea4af8b305.png)
-
-# Code
-
-
